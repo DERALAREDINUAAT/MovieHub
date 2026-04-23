@@ -1,4 +1,4 @@
-# 🎬 MovieHub
+# MovieHub
 
 MovieHub is a Java application inspired by platforms such as IMDB.
 
@@ -8,7 +8,7 @@ This project was created for the **Object-Oriented Programming** course.
 
 ---
 
-# 📌 Features
+# Features
 
 - Add movies
 - Add series
@@ -25,7 +25,7 @@ This project was created for the **Object-Oriented Programming** course.
 
 ---
 
-# 🧱 Classes
+# Classes
 
 - `Production`
 - `Movie`
@@ -41,7 +41,7 @@ This project was created for the **Object-Oriented Programming** course.
 
 ---
 
-# 🧠 OOP Concepts Used
+# OOP Concepts Used
 
 ## Encapsulation
 
@@ -67,7 +67,7 @@ The project uses multiple Java collections:
 
 ---
 
-# ⚙️ Service Class
+# Service Class
 
 The `MovieService` class handles the main operations of the application:
 
@@ -78,13 +78,13 @@ The `MovieService` class handles the main operations of the application:
 
 ---
 
-# ▶️ Main Class
+# Main Class
 
 The `Main` class creates objects and demonstrates the functionality of the application.
 
 ---
 
-# 🛠️ Technologies
+# Technologies
 
 - Java
 - OOP
@@ -92,7 +92,7 @@ The `Main` class creates objects and demonstrates the functionality of the appli
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 MovieHub/
@@ -112,7 +112,7 @@ MovieHub/
 
 ---
 
-# ✅ Stage I Requirements Coverage
+# Stage I Requirements Coverage
 
 - [x] Minimum 8 object types
 - [x] Minimum 10 actions/queries
