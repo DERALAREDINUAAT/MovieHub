@@ -122,3 +122,8 @@ MovieHub/
 - [x] Service class
 - [x] Main class
 - [x] Encapsulation through private/protected fields
+
+---
+
+# Result
+<img width="664" height="467" alt="image" src="https://github.com/user-attachments/assets/f37bcf3d-fedc-4972-9fca-40814110d355" />
