@@ -1,4 +1,3 @@
-````md
 # 🎬 MovieHub
 
 MovieHub is a Java application inspired by platforms such as IMDB.
@@ -123,6 +122,3 @@ MovieHub/
 - [x] Service class
 - [x] Main class
 - [x] Encapsulation through private/protected fields
-
-Student project created for the Object-Oriented Programming course.
-````
